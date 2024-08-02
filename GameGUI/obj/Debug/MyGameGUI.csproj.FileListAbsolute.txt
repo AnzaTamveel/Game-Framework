@@ -1,0 +1,38 @@
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\bin\Debug\MyGameGUI.exe.config
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\bin\Debug\MyGameGUI.exe
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\bin\Debug\MyGameGUI.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\bin\Debug\GameFrameWork01.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.csproj.AssemblyReference.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.Properties.Resources.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.Resource1.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.csproj.GenerateResource.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.csproj.CopyComplete
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.exe
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.FrontPage.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\bin\Debug\EZInput.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\bin\Debug\EZInput.xml
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\bin\Debug\Guna.UI2.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.UI.WinGame.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\bin\Debug\GameFrameWork01.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI\obj\Debug\MyGameGUI.UI.Lose.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\bin\Debug\MyGameGUI.exe.config
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\bin\Debug\MyGameGUI.exe
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\bin\Debug\MyGameGUI.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\bin\Debug\Guna.UI2.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\bin\Debug\EZInput.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\bin\Debug\GameFrameWork01.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\bin\Debug\EZInput.xml
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.csproj.AssemblyReference.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.FrontPage.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.Properties.Resources.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.Resource1.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.UI.Lose.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.UI.WinGame.resources
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.csproj.GenerateResource.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.csproj.CopyComplete
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.exe
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\obj\Debug\MyGameGUI.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\MyGameGUI (4)\MyGameGUI\bin\Debug\GameFrameWork01.dll
