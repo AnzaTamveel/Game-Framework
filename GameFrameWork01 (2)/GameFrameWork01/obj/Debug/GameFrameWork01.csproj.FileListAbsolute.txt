@@ -1,0 +1,18 @@
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\bin\Debug\GameFrameWork01.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\bin\Debug\GameFrameWork01.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\bin\Debug\EZInput.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\bin\Debug\EZInput.xml
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\obj\Debug\GameFrameWork01.csproj.AssemblyReference.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\obj\Debug\GameFrameWork01.csproj.CoreCompileInputs.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\obj\Debug\GameFrameWork01.csproj.CopyComplete
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\obj\Debug\GameFrameWork01.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01\obj\Debug\GameFrameWork01.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\bin\Debug\GameFrameWork01.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\bin\Debug\GameFrameWork01.pdb
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\bin\Debug\EZInput.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\bin\Debug\EZInput.xml
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\obj\Debug\GameFrameWork01.csproj.AssemblyReference.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\obj\Debug\GameFrameWork01.csproj.CoreCompileInputs.cache
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\obj\Debug\GameFrameWork01.csproj.CopyComplete
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\obj\Debug\GameFrameWork01.dll
+C:\Users\3 Stars Laptop\OneDrive\Desktop\GameFrameWork01 (2)\GameFrameWork01\obj\Debug\GameFrameWork01.pdb
